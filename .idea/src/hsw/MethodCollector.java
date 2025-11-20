@@ -19,5 +19,8 @@ public class MethodCollector {
         System.out.println("MethodCollector.aFirstMethod: This method has been created by ");
     }
 
+    private static void methodByMarcel() {
+        System.out.println("Test Methode von Marcel");
+    }
 
 }
