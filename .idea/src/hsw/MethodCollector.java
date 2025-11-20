@@ -11,6 +11,9 @@ public class MethodCollector {
         System.out.println("Method " + methodCounter + ":" );
         aFirstMethod();
         methodCounter++;
+        methodByMarcel();
+        methodCounter++;
+
 // hier kann die nächste Methode folgen.
     }
 
